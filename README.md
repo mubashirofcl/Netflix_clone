@@ -5,7 +5,7 @@
 </h4>
 
 <p align="center">
-  <img src="static/images/Netflix.gif" alt="Netflix Clone Preview" width="80%">
+  <img src="/images/Netflix.gif" alt="Netflix Clone Preview" width="80%">
 </p>
 
 ---
