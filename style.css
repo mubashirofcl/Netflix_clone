@@ -13,7 +13,7 @@ body {
 .header {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.14)), linear-gradient(rgba(0, 0, 0, 0.7)), url(./images/main.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.14)), linear-gradient(rgba(0, 0, 0, 0.7)), url(/images/main.png);
     background-size: cover;
     background-position: center;
     padding: 10px 8%;
@@ -335,21 +335,6 @@ nav button {
 .active,
 .accordion:hover {
     background-color: #424242;
-}
-
-.pannel {
-    padding: 0 2rem 2.5rem 2rem;
-    background-color: 424242;
-    overflow: hidden;
-    margin-top: 10px;
-    background-color: #424242;
-    display: none;
-}
-
-.pannel p {
-    color: rgb(255, 255, 255);
-    font-size: 1.2rem;
-    line-height: 1.4;
 }
 
 .faq {
